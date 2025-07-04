@@ -19,9 +19,9 @@
               "index",
               "quickstart"
             ]
-          },
+          }
         ]
-      },
+      }
     ],
     "global": {
       "anchors": []
@@ -37,13 +37,11 @@
         "label": "Support",
         "href": "mailto:admin@dusty.kr"
       }
-    ],
+    ]
   },
   "footer": {
     "socials": {
-      "chzzk": "https://chzzk.naver.com/1afe70d03e605dabcec4904623168eeb",
-      "cafe": "https://cafe.naver.com/tatakai",
-      "youtube": "https://cafe.naver.com/tatakai"
+      "youtube": "https://www.youtube.com/@tatakai_"
     }
   }
 }
